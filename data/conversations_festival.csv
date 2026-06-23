@@ -1,0 +1,1001 @@
+conversation_id,district,transcript,category,sentiment,priority
+1,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Low
+2,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+3,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Low
+4,Alappuzha,Citizen: My income certificate application is delayed in Alappuzha. Executive: We will check the status.,Documentation,Negative,Medium
+5,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+6,Kozhikode,Citizen: There are not enough teachers in the government school in Kozhikode. Executive: The issue will be forwarded.,Education,Negative,High
+7,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Neutral,Critical
+8,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+9,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Medium
+10,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+11,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,High
+12,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+13,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,Medium
+14,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Positive,Medium
+15,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+16,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,High
+17,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,Low
+18,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Medium
+19,Palakkad,Citizen: There are not enough teachers in the government school in Palakkad. Executive: The issue will be forwarded.,Education,Negative,Low
+20,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,Medium
+21,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+22,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Low
+23,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,High
+24,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Positive,Medium
+25,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,Medium
+26,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Positive,Medium
+27,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Positive,Critical
+28,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Negative,Low
+29,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Neutral,Low
+30,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,High
+31,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+32,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+33,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Positive,Critical
+34,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+35,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Negative,Low
+36,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+37,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Negative,Medium
+38,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+39,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+40,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,Low
+41,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+42,Kozhikode,Citizen: Frequent power cuts are happening in Kozhikode. Executive: Complaint noted.,Electricity,Negative,Low
+43,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Medium
+44,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+45,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Low
+46,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,High
+47,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+48,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Low
+49,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,High
+50,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Neutral,Low
+51,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,Low
+52,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Positive,Low
+53,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,High
+54,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,High
+55,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Medium
+56,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,Critical
+57,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+58,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Positive,Medium
+59,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+60,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Critical
+61,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Negative,High
+62,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Low
+63,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,High
+64,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+65,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Low
+66,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Negative,High
+67,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+68,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Neutral,Low
+69,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+70,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,High
+71,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Positive,Low
+72,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,High
+73,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,Medium
+74,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Neutral,Low
+75,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,Low
+76,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Positive,Low
+77,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+78,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,Low
+79,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+80,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Negative,Medium
+81,Kozhikode,Citizen: Frequent power cuts are happening in Kozhikode. Executive: Complaint noted.,Electricity,Neutral,Low
+82,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,Medium
+83,Kozhikode,Citizen: There are not enough teachers in the government school in Kozhikode. Executive: The issue will be forwarded.,Education,Negative,Medium
+84,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+85,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,High
+86,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Positive,Medium
+87,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+88,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+89,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,High
+90,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+91,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Low
+92,Ernakulam,Citizen: The government hospital in Ernakulam has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+93,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Critical
+94,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+95,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Medium
+96,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Neutral,Medium
+97,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Medium
+98,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Negative,Low
+99,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,Medium
+100,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Negative,Medium
+101,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+102,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Medium
+103,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+104,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Low
+105,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,High
+106,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Negative,High
+107,Alappuzha,Citizen: My income certificate application is delayed in Alappuzha. Executive: We will check the status.,Documentation,Neutral,Low
+108,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,High
+109,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Neutral,Medium
+110,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+111,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Neutral,High
+112,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,High
+113,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,Critical
+114,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,Low
+115,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+116,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Low
+117,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,High
+118,Kottayam,Citizen: There has been no water supply in Kottayam for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+119,Thrissur,Citizen: The government hospital in Thrissur has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+120,Kannur,Citizen: There are not enough teachers in the government school in Kannur. Executive: The issue will be forwarded.,Education,Positive,High
+121,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+122,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,High
+123,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,High
+124,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+125,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+126,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Positive,High
+127,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Low
+128,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+129,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+130,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Low
+131,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+132,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Negative,Medium
+133,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Medium
+134,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+135,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+136,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Neutral,Low
+137,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Low
+138,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Medium
+139,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Positive,Medium
+140,Ernakulam,Citizen: My income certificate application is delayed in Ernakulam. Executive: We will check the status.,Documentation,Positive,Low
+141,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+142,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Neutral,Medium
+143,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Positive,Low
+144,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Low
+145,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,High
+146,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+147,Alappuzha,Citizen: My income certificate application is delayed in Alappuzha. Executive: We will check the status.,Documentation,Negative,Medium
+148,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Critical
+149,Kottayam,Citizen: My income certificate application is delayed in Kottayam. Executive: We will check the status.,Documentation,Positive,Medium
+150,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,Medium
+151,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+152,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+153,Alappuzha,Citizen: My income certificate application is delayed in Alappuzha. Executive: We will check the status.,Documentation,Neutral,Low
+154,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Neutral,Critical
+155,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+156,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Positive,Low
+157,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,High
+158,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,High
+159,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Medium
+160,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Negative,Critical
+161,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Medium
+162,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Low
+163,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+164,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Positive,High
+165,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+166,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,Low
+167,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Medium
+168,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+169,Wayanad,Citizen: There are not enough teachers in the government school in Wayanad. Executive: The issue will be forwarded.,Education,Positive,Medium
+170,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,High
+171,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Positive,Low
+172,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Neutral,Low
+173,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+174,Palakkad,Citizen: My income certificate application is delayed in Palakkad. Executive: We will check the status.,Documentation,Positive,Medium
+175,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+176,Palakkad,Citizen: The government hospital in Palakkad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+177,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,High
+178,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Negative,Low
+179,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+180,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,Low
+181,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,Critical
+182,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Medium
+183,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+184,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Low
+185,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,High
+186,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+187,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+188,Kottayam,Citizen: There are not enough teachers in the government school in Kottayam. Executive: The issue will be forwarded.,Education,Neutral,High
+189,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+190,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Negative,High
+191,Wayanad,Citizen: There are not enough teachers in the government school in Wayanad. Executive: The issue will be forwarded.,Education,Negative,Medium
+192,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+193,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Neutral,Critical
+194,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+195,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Positive,Low
+196,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,High
+197,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+198,Idukki,Citizen: Frequent power cuts are happening in Idukki. Executive: Complaint noted.,Electricity,Neutral,High
+199,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Positive,Low
+200,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,Critical
+201,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Low
+202,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Neutral,Medium
+203,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Positive,Low
+204,Kottayam,Citizen: There are not enough teachers in the government school in Kottayam. Executive: The issue will be forwarded.,Education,Neutral,High
+205,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Neutral,Critical
+206,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,Medium
+207,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Medium
+208,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+209,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,High
+210,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+211,Kottayam,Citizen: Frequent power cuts are happening in Kottayam. Executive: Complaint noted.,Electricity,Neutral,Low
+212,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Medium
+213,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+214,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Negative,Medium
+215,Palakkad,Citizen: The road near the junction in Palakkad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Critical
+216,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,Critical
+217,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Positive,Medium
+218,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Positive,Medium
+219,Wayanad,Citizen: There are not enough teachers in the government school in Wayanad. Executive: The issue will be forwarded.,Education,Neutral,Medium
+220,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Critical
+221,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,High
+222,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Low
+223,Kottayam,Citizen: Frequent power cuts are happening in Kottayam. Executive: Complaint noted.,Electricity,Neutral,Low
+224,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Positive,Low
+225,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+226,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Neutral,Medium
+227,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,High
+228,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Medium
+229,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Medium
+230,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Positive,Critical
+231,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+232,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+233,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Negative,Low
+234,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Negative,High
+235,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,High
+236,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+237,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,High
+238,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+239,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Neutral,Medium
+240,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Critical
+241,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+242,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,Low
+243,Palakkad,Citizen: The government hospital in Palakkad has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+244,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+245,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,High
+246,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Positive,High
+247,Wayanad,Citizen: There are not enough teachers in the government school in Wayanad. Executive: The issue will be forwarded.,Education,Negative,Medium
+248,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,Low
+249,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+250,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Positive,Low
+251,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Medium
+252,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Positive,Low
+253,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Negative,High
+254,Thrissur,Citizen: The government hospital in Thrissur has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+255,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Low
+256,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+257,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Negative,Medium
+258,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Negative,Medium
+259,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Positive,Medium
+260,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Negative,Medium
+261,Kozhikode,Citizen: There are not enough teachers in the government school in Kozhikode. Executive: The issue will be forwarded.,Education,Neutral,Low
+262,Idukki,Citizen: My income certificate application is delayed in Idukki. Executive: We will check the status.,Documentation,Negative,Low
+263,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+264,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Critical
+265,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+266,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Critical
+267,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Negative,Low
+268,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Low
+269,Kannur,Citizen: My income certificate application is delayed in Kannur. Executive: We will check the status.,Documentation,Neutral,Medium
+270,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+271,Palakkad,Citizen: The road near the junction in Palakkad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+272,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Positive,Medium
+273,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,Medium
+274,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Medium
+275,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Low
+276,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Medium
+277,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Low
+278,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Critical
+279,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Critical
+280,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+281,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Negative,Low
+282,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Low
+283,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Low
+284,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+285,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+286,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Neutral,Low
+287,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Critical
+288,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Neutral,High
+289,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Medium
+290,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Medium
+291,Idukki,Citizen: Frequent power cuts are happening in Idukki. Executive: Complaint noted.,Electricity,Neutral,Low
+292,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Medium
+293,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Low
+294,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Critical
+295,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Medium
+296,Kottayam,Citizen: There are not enough teachers in the government school in Kottayam. Executive: The issue will be forwarded.,Education,Neutral,High
+297,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+298,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Low
+299,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+300,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+301,Ernakulam,Citizen: The government hospital in Ernakulam has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Medium
+302,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+303,Kannur,Citizen: There are not enough teachers in the government school in Kannur. Executive: The issue will be forwarded.,Education,Negative,Low
+304,Palakkad,Citizen: The road near the junction in Palakkad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+305,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Positive,Low
+306,Thiruvananthapuram,Citizen: The government hospital in Thiruvananthapuram has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+307,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Low
+308,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,Medium
+309,Kottayam,Citizen: There has been no water supply in Kottayam for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+310,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,High
+311,Palakkad,Citizen: The road near the junction in Palakkad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+312,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,High
+313,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Medium
+314,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+315,Kannur,Citizen: There are not enough teachers in the government school in Kannur. Executive: The issue will be forwarded.,Education,Negative,Critical
+316,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+317,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Negative,High
+318,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+319,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+320,Ernakulam,Citizen: The government hospital in Ernakulam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+321,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+322,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+323,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,High
+324,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+325,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Positive,High
+326,Palakkad,Citizen: The road near the junction in Palakkad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,High
+327,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Low
+328,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+329,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,Critical
+330,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,High
+331,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+332,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Low
+333,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+334,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Medium
+335,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+336,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,High
+337,Kottayam,Citizen: My income certificate application is delayed in Kottayam. Executive: We will check the status.,Documentation,Neutral,High
+338,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+339,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+340,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Neutral,Low
+341,Kottayam,Citizen: The government hospital in Kottayam has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+342,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,High
+343,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Positive,High
+344,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,Low
+345,Kottayam,Citizen: Frequent power cuts are happening in Kottayam. Executive: Complaint noted.,Electricity,Negative,Medium
+346,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Neutral,Low
+347,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Positive,Medium
+348,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,High
+349,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Medium
+350,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+351,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+352,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,Critical
+353,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Neutral,High
+354,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,Medium
+355,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Medium
+356,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Negative,Low
+357,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+358,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+359,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,Medium
+360,Wayanad,Citizen: There are not enough teachers in the government school in Wayanad. Executive: The issue will be forwarded.,Education,Positive,Medium
+361,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Neutral,High
+362,Palakkad,Citizen: There are not enough teachers in the government school in Palakkad. Executive: The issue will be forwarded.,Education,Positive,High
+363,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Low
+364,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Positive,Low
+365,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Positive,Medium
+366,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Neutral,Critical
+367,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Neutral,High
+368,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+369,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+370,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,Medium
+371,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Low
+372,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Negative,Medium
+373,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Low
+374,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Neutral,High
+375,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Medium
+376,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Neutral,Medium
+377,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,Low
+378,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Positive,High
+379,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Medium
+380,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Low
+381,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Negative,Low
+382,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Medium
+383,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Neutral,Critical
+384,Palakkad,Citizen: My income certificate application is delayed in Palakkad. Executive: We will check the status.,Documentation,Negative,Medium
+385,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+386,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,High
+387,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+388,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Negative,Low
+389,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Negative,High
+390,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+391,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,High
+392,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+393,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,Medium
+394,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Low
+395,Thrissur,Citizen: The government hospital in Thrissur has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+396,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+397,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+398,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,High
+399,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Positive,Low
+400,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+401,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Medium
+402,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Positive,High
+403,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,High
+404,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Positive,High
+405,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Positive,Low
+406,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,High
+407,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,High
+408,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Negative,Medium
+409,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Low
+410,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Neutral,Low
+411,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Critical
+412,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Neutral,Medium
+413,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Neutral,Low
+414,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,High
+415,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Negative,Low
+416,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Medium
+417,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+418,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Medium
+419,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,High
+420,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Neutral,Medium
+421,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Negative,High
+422,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Medium
+423,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+424,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Low
+425,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Negative,Medium
+426,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Low
+427,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+428,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Low
+429,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,Medium
+430,Wayanad,Citizen: Frequent power cuts are happening in Wayanad. Executive: Complaint noted.,Electricity,Positive,Low
+431,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+432,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+433,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+434,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+435,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,Low
+436,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Negative,Critical
+437,Kozhikode,Citizen: Frequent power cuts are happening in Kozhikode. Executive: Complaint noted.,Electricity,Negative,High
+438,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,High
+439,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Critical
+440,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+441,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Low
+442,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+443,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Low
+444,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Medium
+445,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,Medium
+446,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Neutral,Low
+447,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Neutral,Low
+448,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+449,Kottayam,Citizen: There has been no water supply in Kottayam for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+450,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+451,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Neutral,Low
+452,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,High
+453,Thrissur,Citizen: The government hospital in Thrissur has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+454,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,Low
+455,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Critical
+456,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Negative,Medium
+457,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Low
+458,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Medium
+459,Idukki,Citizen: My income certificate application is delayed in Idukki. Executive: We will check the status.,Documentation,Negative,Low
+460,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Positive,Medium
+461,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,High
+462,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Positive,Medium
+463,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Medium
+464,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Positive,High
+465,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Low
+466,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,Critical
+467,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Negative,Low
+468,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+469,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Medium
+470,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+471,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Neutral,High
+472,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,High
+473,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Positive,Low
+474,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+475,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Negative,High
+476,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Medium
+477,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Negative,High
+478,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+479,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Low
+480,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Neutral,Medium
+481,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Low
+482,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Low
+483,Thrissur,Citizen: There are not enough teachers in the government school in Thrissur. Executive: The issue will be forwarded.,Education,Neutral,High
+484,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Critical
+485,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,Medium
+486,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Low
+487,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+488,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+489,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+490,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Positive,Low
+491,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Negative,Low
+492,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,Low
+493,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Medium
+494,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Low
+495,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Negative,Medium
+496,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Positive,Critical
+497,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+498,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Positive,Critical
+499,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Low
+500,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,Low
+501,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Neutral,Medium
+502,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Positive,Medium
+503,Kozhikode,Citizen: There are not enough teachers in the government school in Kozhikode. Executive: The issue will be forwarded.,Education,Neutral,Low
+504,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Neutral,Low
+505,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,High
+506,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Low
+507,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,High
+508,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,High
+509,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Low
+510,Ernakulam,Citizen: My income certificate application is delayed in Ernakulam. Executive: We will check the status.,Documentation,Neutral,Low
+511,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+512,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+513,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+514,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Critical
+515,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Positive,Medium
+516,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Neutral,Critical
+517,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Positive,Low
+518,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Low
+519,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Positive,Medium
+520,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+521,Ernakulam,Citizen: The government hospital in Ernakulam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+522,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Medium
+523,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,Medium
+524,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,Low
+525,Wayanad,Citizen: Frequent power cuts are happening in Wayanad. Executive: Complaint noted.,Electricity,Positive,High
+526,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+527,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,Medium
+528,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Medium
+529,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Positive,High
+530,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Medium
+531,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Medium
+532,Wayanad,Citizen: There are not enough teachers in the government school in Wayanad. Executive: The issue will be forwarded.,Education,Neutral,High
+533,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+534,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+535,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,High
+536,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Critical
+537,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,High
+538,Kottayam,Citizen: Frequent power cuts are happening in Kottayam. Executive: Complaint noted.,Electricity,Positive,Low
+539,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,High
+540,Kozhikode,Citizen: There are not enough teachers in the government school in Kozhikode. Executive: The issue will be forwarded.,Education,Positive,Medium
+541,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Positive,Low
+542,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Neutral,Medium
+543,Kozhikode,Citizen: My income certificate application is delayed in Kozhikode. Executive: We will check the status.,Documentation,Negative,Low
+544,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,High
+545,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+546,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Positive,High
+547,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Medium
+548,Kannur,Citizen: There are not enough teachers in the government school in Kannur. Executive: The issue will be forwarded.,Education,Negative,High
+549,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+550,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Critical
+551,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Negative,Critical
+552,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Neutral,Medium
+553,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Low
+554,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+555,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Neutral,Medium
+556,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,Medium
+557,Ernakulam,Citizen: My income certificate application is delayed in Ernakulam. Executive: We will check the status.,Documentation,Negative,Medium
+558,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Medium
+559,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,Medium
+560,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Medium
+561,Kozhikode,Citizen: My income certificate application is delayed in Kozhikode. Executive: We will check the status.,Documentation,Positive,Critical
+562,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Positive,High
+563,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,Low
+564,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Positive,High
+565,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+566,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Medium
+567,Kannur,Citizen: There are not enough teachers in the government school in Kannur. Executive: The issue will be forwarded.,Education,Neutral,Medium
+568,Idukki,Citizen: Frequent power cuts are happening in Idukki. Executive: Complaint noted.,Electricity,Neutral,Critical
+569,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Negative,Low
+570,Alappuzha,Citizen: There are not enough teachers in the government school in Alappuzha. Executive: The issue will be forwarded.,Education,Positive,Low
+571,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Positive,Critical
+572,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Critical
+573,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+574,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Neutral,High
+575,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+576,Thiruvananthapuram,Citizen: The government hospital in Thiruvananthapuram has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+577,Alappuzha,Citizen: My income certificate application is delayed in Alappuzha. Executive: We will check the status.,Documentation,Positive,Low
+578,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Medium
+579,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+580,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Positive,Medium
+581,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Low
+582,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,High
+583,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Critical
+584,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Negative,Medium
+585,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Neutral,Medium
+586,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Neutral,Low
+587,Thiruvananthapuram,Citizen: The government hospital in Thiruvananthapuram has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Critical
+588,Kozhikode,Citizen: There are not enough teachers in the government school in Kozhikode. Executive: The issue will be forwarded.,Education,Neutral,High
+589,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Medium
+590,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,High
+591,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Low
+592,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+593,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Low
+594,Kottayam,Citizen: There has been no water supply in Kottayam for two days. Executive: Your complaint has been registered.,Water,Negative,High
+595,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Positive,Medium
+596,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+597,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Low
+598,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Negative,Medium
+599,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,Low
+600,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Medium
+601,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+602,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Negative,Medium
+603,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Low
+604,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+605,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+606,Kozhikode,Citizen: My income certificate application is delayed in Kozhikode. Executive: We will check the status.,Documentation,Neutral,Low
+607,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Neutral,Low
+608,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Medium
+609,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,Medium
+610,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Medium
+611,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Critical
+612,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,Low
+613,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,Medium
+614,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Neutral,Medium
+615,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+616,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Critical
+617,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,High
+618,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Positive,Low
+619,Kozhikode,Citizen: Frequent power cuts are happening in Kozhikode. Executive: Complaint noted.,Electricity,Neutral,Low
+620,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+621,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Positive,Medium
+622,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Positive,Medium
+623,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Medium
+624,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+625,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+626,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,Critical
+627,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Low
+628,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+629,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Positive,High
+630,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Positive,Low
+631,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Negative,Critical
+632,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,High
+633,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Medium
+634,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+635,Thiruvananthapuram,Citizen: There are not enough teachers in the government school in Thiruvananthapuram. Executive: The issue will be forwarded.,Education,Neutral,Low
+636,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+637,Thrissur,Citizen: The government hospital in Thrissur has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+638,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+639,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+640,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Neutral,Low
+641,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,High
+642,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Critical
+643,Kottayam,Citizen: The government hospital in Kottayam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Critical
+644,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+645,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Medium
+646,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Medium
+647,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,Critical
+648,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,High
+649,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+650,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+651,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+652,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Negative,Low
+653,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,Low
+654,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+655,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Critical
+656,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Critical
+657,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,Medium
+658,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Critical
+659,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Medium
+660,Kottayam,Citizen: My income certificate application is delayed in Kottayam. Executive: We will check the status.,Documentation,Positive,Low
+661,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Positive,Medium
+662,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,High
+663,Thiruvananthapuram,Citizen: There are not enough teachers in the government school in Thiruvananthapuram. Executive: The issue will be forwarded.,Education,Positive,High
+664,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Critical
+665,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,High
+666,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,Low
+667,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Low
+668,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,High
+669,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Negative,Low
+670,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Negative,Medium
+671,Kozhikode,Citizen: My income certificate application is delayed in Kozhikode. Executive: We will check the status.,Documentation,Neutral,Low
+672,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Neutral,Low
+673,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,High
+674,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,High
+675,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Negative,High
+676,Palakkad,Citizen: Frequent power cuts are happening in Palakkad. Executive: Complaint noted.,Electricity,Positive,Critical
+677,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Neutral,High
+678,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Low
+679,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+680,Kottayam,Citizen: There are not enough teachers in the government school in Kottayam. Executive: The issue will be forwarded.,Education,Negative,Low
+681,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Negative,Low
+682,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+683,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Medium
+684,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Positive,Medium
+685,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Neutral,Medium
+686,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+687,Kottayam,Citizen: The government hospital in Kottayam has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+688,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Medium
+689,Thrissur,Citizen: The government hospital in Thrissur has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+690,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+691,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Negative,Low
+692,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+693,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Negative,Medium
+694,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+695,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+696,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Medium
+697,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Positive,Medium
+698,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Medium
+699,Kottayam,Citizen: There has been no water supply in Kottayam for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+700,Kannur,Citizen: There are not enough teachers in the government school in Kannur. Executive: The issue will be forwarded.,Education,Negative,Low
+701,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Low
+702,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Low
+703,Thiruvananthapuram,Citizen: The government hospital in Thiruvananthapuram has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+704,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,High
+705,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+706,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+707,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Positive,Medium
+708,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Low
+709,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+710,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+711,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Positive,Medium
+712,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Neutral,High
+713,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,High
+714,Kottayam,Citizen: My income certificate application is delayed in Kottayam. Executive: We will check the status.,Documentation,Neutral,Medium
+715,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+716,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+717,Kottayam,Citizen: My income certificate application is delayed in Kottayam. Executive: We will check the status.,Documentation,Positive,High
+718,Palakkad,Citizen: There are not enough teachers in the government school in Palakkad. Executive: The issue will be forwarded.,Education,Negative,Medium
+719,Kozhikode,Citizen: Frequent power cuts are happening in Kozhikode. Executive: Complaint noted.,Electricity,Neutral,Low
+720,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+721,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,High
+722,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,Low
+723,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,High
+724,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+725,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Critical
+726,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Medium
+727,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Negative,Medium
+728,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+729,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+730,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,Critical
+731,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+732,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Neutral,Low
+733,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,High
+734,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Low
+735,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Low
+736,Wayanad,Citizen: Frequent power cuts are happening in Wayanad. Executive: Complaint noted.,Electricity,Positive,High
+737,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Low
+738,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Critical
+739,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Neutral,Critical
+740,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+741,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Medium
+742,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+743,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+744,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Negative,Low
+745,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+746,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Critical
+747,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Neutral,Medium
+748,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,Medium
+749,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+750,Kannur,Citizen: My income certificate application is delayed in Kannur. Executive: We will check the status.,Documentation,Positive,Medium
+751,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Positive,High
+752,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Low
+753,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,High
+754,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Medium
+755,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Critical
+756,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,High
+757,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,High
+758,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+759,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,Medium
+760,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+761,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Positive,Medium
+762,Thiruvananthapuram,Citizen: The government hospital in Thiruvananthapuram has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+763,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Critical
+764,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Low
+765,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,High
+766,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+767,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Low
+768,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+769,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,Low
+770,Kottayam,Citizen: My income certificate application is delayed in Kottayam. Executive: We will check the status.,Documentation,Neutral,High
+771,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+772,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+773,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Negative,Medium
+774,Kozhikode,Citizen: Frequent power cuts are happening in Kozhikode. Executive: Complaint noted.,Electricity,Positive,Low
+775,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Neutral,High
+776,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+777,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Low
+778,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Neutral,Medium
+779,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Positive,Low
+780,Kottayam,Citizen: There are not enough teachers in the government school in Kottayam. Executive: The issue will be forwarded.,Education,Negative,Low
+781,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Neutral,High
+782,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Negative,Low
+783,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Low
+784,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,High
+785,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,High
+786,Alappuzha,Citizen: The road near the junction in Alappuzha is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+787,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+788,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Neutral,Low
+789,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Positive,Low
+790,Palakkad,Citizen: The road near the junction in Palakkad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+791,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+792,Thrissur,Citizen: There are not enough teachers in the government school in Thrissur. Executive: The issue will be forwarded.,Education,Positive,High
+793,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,High
+794,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Critical
+795,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Medium
+796,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+797,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Neutral,High
+798,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Medium
+799,Wayanad,Citizen: Frequent power cuts are happening in Wayanad. Executive: Complaint noted.,Electricity,Neutral,High
+800,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Positive,Medium
+801,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Neutral,Medium
+802,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Negative,Low
+803,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Medium
+804,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Negative,Medium
+805,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Positive,Medium
+806,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+807,Thrissur,Citizen: My income certificate application is delayed in Thrissur. Executive: We will check the status.,Documentation,Negative,Low
+808,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,Medium
+809,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Neutral,Medium
+810,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,Low
+811,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+812,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+813,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,High
+814,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Positive,Medium
+815,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+816,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Low
+817,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Positive,Medium
+818,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,High
+819,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Medium
+820,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,High
+821,Kottayam,Citizen: Frequent power cuts are happening in Kottayam. Executive: Complaint noted.,Electricity,Negative,Medium
+822,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Positive,Medium
+823,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Neutral,Low
+824,Kannur,Citizen: The road near the junction in Kannur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+825,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Positive,Low
+826,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+827,Kozhikode,Citizen: There has been no water supply in Kozhikode for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+828,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,High
+829,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+830,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Negative,Low
+831,Ernakulam,Citizen: My income certificate application is delayed in Ernakulam. Executive: We will check the status.,Documentation,Neutral,Medium
+832,Wayanad,Citizen: Frequent power cuts are happening in Wayanad. Executive: Complaint noted.,Electricity,Neutral,Medium
+833,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,Medium
+834,Ernakulam,Citizen: The government hospital in Ernakulam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+835,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Negative,Medium
+836,Palakkad,Citizen: There are not enough teachers in the government school in Palakkad. Executive: The issue will be forwarded.,Education,Negative,High
+837,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Low
+838,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Positive,High
+839,Kottayam,Citizen: The government hospital in Kottayam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+840,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Negative,Medium
+841,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+842,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+843,Idukki,Citizen: Frequent power cuts are happening in Idukki. Executive: Complaint noted.,Electricity,Neutral,Medium
+844,Kozhikode,Citizen: My income certificate application is delayed in Kozhikode. Executive: We will check the status.,Documentation,Negative,Low
+845,Thiruvananthapuram,Citizen: There are not enough teachers in the government school in Thiruvananthapuram. Executive: The issue will be forwarded.,Education,Negative,Low
+846,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+847,Idukki,Citizen: Frequent power cuts are happening in Idukki. Executive: Complaint noted.,Electricity,Negative,Medium
+848,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Neutral,Critical
+849,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Low
+850,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,High
+851,Palakkad,Citizen: The government hospital in Palakkad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+852,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Negative,High
+853,Ernakulam,Citizen: There has been no water supply in Ernakulam for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+854,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Low
+855,Kozhikode,Citizen: The road near the junction in Kozhikode is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Critical
+856,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Neutral,Low
+857,Wayanad,Citizen: My income certificate application is delayed in Wayanad. Executive: We will check the status.,Documentation,Positive,High
+858,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Positive,High
+859,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+860,Kottayam,Citizen: Frequent power cuts are happening in Kottayam. Executive: Complaint noted.,Electricity,Negative,High
+861,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+862,Kottayam,Citizen: There has been no water supply in Kottayam for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+863,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,High
+864,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+865,Ernakulam,Citizen: Bus timings are irregular in Ernakulam. Executive: We will inform the transport department.,Transport,Positive,Medium
+866,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Positive,High
+867,Thiruvananthapuram,Citizen: My income certificate application is delayed in Thiruvananthapuram. Executive: We will check the status.,Documentation,Neutral,Medium
+868,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Neutral,High
+869,Ernakulam,Citizen: Frequent power cuts are happening in Ernakulam. Executive: Complaint noted.,Electricity,Neutral,Critical
+870,Kottayam,Citizen: The government hospital in Kottayam has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Medium
+871,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Neutral,Low
+872,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+873,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Negative,Medium
+874,Kozhikode,Citizen: My income certificate application is delayed in Kozhikode. Executive: We will check the status.,Documentation,Negative,Critical
+875,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,High
+876,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Neutral,High
+877,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Negative,High
+878,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,Critical
+879,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+880,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+881,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Medium
+882,Kottayam,Citizen: The government hospital in Kottayam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+883,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,Low
+884,Idukki,Citizen: There has been no water supply in Idukki for two days. Executive: Your complaint has been registered.,Water,Neutral,Low
+885,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Medium
+886,Wayanad,Citizen: Frequent power cuts are happening in Wayanad. Executive: Complaint noted.,Electricity,Neutral,Low
+887,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+888,Kottayam,Citizen: The government hospital in Kottayam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+889,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Low
+890,Kozhikode,Citizen: Frequent power cuts are happening in Kozhikode. Executive: Complaint noted.,Electricity,Positive,High
+891,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Medium
+892,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Negative,Medium
+893,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,High
+894,Kottayam,Citizen: There are not enough teachers in the government school in Kottayam. Executive: The issue will be forwarded.,Education,Negative,Low
+895,Wayanad,Citizen: There has been no water supply in Wayanad for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+896,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Low
+897,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Negative,Medium
+898,Kannur,Citizen: Frequent power cuts are happening in Kannur. Executive: Complaint noted.,Electricity,Neutral,Medium
+899,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Positive,Low
+900,Thiruvananthapuram,Citizen: Frequent power cuts are happening in Thiruvananthapuram. Executive: Complaint noted.,Electricity,Negative,Medium
+901,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+902,Thiruvananthapuram,Citizen: There has been no water supply in Thiruvananthapuram for two days. Executive: Your complaint has been registered.,Water,Neutral,High
+903,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+904,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,High
+905,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Neutral,High
+906,Thiruvananthapuram,Citizen: The road near the junction in Thiruvananthapuram is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+907,Idukki,Citizen: There are not enough teachers in the government school in Idukki. Executive: The issue will be forwarded.,Education,Negative,Medium
+908,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+909,Ernakulam,Citizen: My income certificate application is delayed in Ernakulam. Executive: We will check the status.,Documentation,Neutral,Critical
+910,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Positive,Low
+911,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+912,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Positive,Low
+913,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Positive,Critical
+914,Alappuzha,Citizen: There has been no water supply in Alappuzha for two days. Executive: Your complaint has been registered.,Water,Negative,Critical
+915,Palakkad,Citizen: There has been no water supply in Palakkad for two days. Executive: Your complaint has been registered.,Water,Negative,Low
+916,Alappuzha,Citizen: Bus timings are irregular in Alappuzha. Executive: We will inform the transport department.,Transport,Negative,Medium
+917,Alappuzha,Citizen: My income certificate application is delayed in Alappuzha. Executive: We will check the status.,Documentation,Negative,Critical
+918,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Negative,Medium
+919,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Medium
+920,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Positive,Low
+921,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+922,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Positive,High
+923,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+924,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+925,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Positive,Medium
+926,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,High
+927,Kottayam,Citizen: The road near the junction in Kottayam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+928,Kottayam,Citizen: My income certificate application is delayed in Kottayam. Executive: We will check the status.,Documentation,Negative,Critical
+929,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+930,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+931,Thrissur,Citizen: There has been no water supply in Thrissur for two days. Executive: Your complaint has been registered.,Water,Positive,Critical
+932,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+933,Kottayam,Citizen: Frequent power cuts are happening in Kottayam. Executive: Complaint noted.,Electricity,Negative,Low
+934,Alappuzha,Citizen: Garbage has not been collected in our area in Alappuzha. Executive: Complaint registered.,Waste Management,Neutral,Medium
+935,Idukki,Citizen: The road near the junction in Idukki is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+936,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Positive,High
+937,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Neutral,Medium
+938,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,Medium
+939,Wayanad,Citizen: There are not enough teachers in the government school in Wayanad. Executive: The issue will be forwarded.,Education,Neutral,High
+940,Idukki,Citizen: Frequent power cuts are happening in Idukki. Executive: Complaint noted.,Electricity,Negative,High
+941,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Positive,Low
+942,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Neutral,Low
+943,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+944,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Negative,Medium
+945,Ernakulam,Citizen: The government hospital in Ernakulam has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Medium
+946,Kannur,Citizen: There has been no water supply in Kannur for two days. Executive: Your complaint has been registered.,Water,Positive,High
+947,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,High
+948,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Medium
+949,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+950,Idukki,Citizen: The government hospital in Idukki has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Medium
+951,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,Low
+952,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+953,Alappuzha,Citizen: My income certificate application is delayed in Alappuzha. Executive: We will check the status.,Documentation,Negative,Low
+954,Kannur,Citizen: The government hospital in Kannur has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Critical
+955,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Negative,Low
+956,Thiruvananthapuram,Citizen: Garbage has not been collected in our area in Thiruvananthapuram. Executive: Complaint registered.,Waste Management,Negative,Low
+957,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Low
+958,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Critical
+959,Thrissur,Citizen: Garbage has not been collected in our area in Thrissur. Executive: Complaint registered.,Waste Management,Negative,Low
+960,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Positive,High
+961,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Neutral,Medium
+962,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Neutral,Low
+963,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Critical
+964,Kottayam,Citizen: Garbage has not been collected in our area in Kottayam. Executive: Complaint registered.,Waste Management,Positive,Medium
+965,Wayanad,Citizen: Bus timings are irregular in Wayanad. Executive: We will inform the transport department.,Transport,Neutral,Critical
+966,Alappuzha,Citizen: The government hospital in Alappuzha has long waiting times. Executive: We will escalate this issue.,Healthcare,Negative,Low
+967,Thiruvananthapuram,Citizen: There are not enough teachers in the government school in Thiruvananthapuram. Executive: The issue will be forwarded.,Education,Negative,Medium
+968,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Neutral,High
+969,Kozhikode,Citizen: Garbage has not been collected in our area in Kozhikode. Executive: Complaint registered.,Waste Management,Neutral,Low
+970,Kozhikode,Citizen: Bus timings are irregular in Kozhikode. Executive: We will inform the transport department.,Transport,Neutral,Medium
+971,Palakkad,Citizen: Bus timings are irregular in Palakkad. Executive: We will inform the transport department.,Transport,Neutral,Critical
+972,Wayanad,Citizen: The government hospital in Wayanad has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,Low
+973,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Negative,Medium
+974,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Negative,High
+975,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Negative,Low
+976,Ernakulam,Citizen: The road near the junction in Ernakulam is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Neutral,Medium
+977,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Medium
+978,Thrissur,Citizen: Frequent power cuts are happening in Thrissur. Executive: Complaint noted.,Electricity,Negative,Critical
+979,Thiruvananthapuram,Citizen: Bus timings are irregular in Thiruvananthapuram. Executive: We will inform the transport department.,Transport,Negative,Medium
+980,Kannur,Citizen: There are not enough teachers in the government school in Kannur. Executive: The issue will be forwarded.,Education,Positive,Critical
+981,Wayanad,Citizen: The road near the junction in Wayanad is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,High
+982,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Neutral,High
+983,Idukki,Citizen: Bus timings are irregular in Idukki. Executive: We will inform the transport department.,Transport,Negative,Low
+984,Thrissur,Citizen: Bus timings are irregular in Thrissur. Executive: We will inform the transport department.,Transport,Neutral,Low
+985,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+986,Wayanad,Citizen: Garbage has not been collected in our area in Wayanad. Executive: Complaint registered.,Waste Management,Negative,High
+987,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Neutral,Low
+988,Idukki,Citizen: My income certificate application is delayed in Idukki. Executive: We will check the status.,Documentation,Negative,Critical
+989,Ernakulam,Citizen: Garbage has not been collected in our area in Ernakulam. Executive: Complaint registered.,Waste Management,Positive,Critical
+990,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Positive,Critical
+991,Kozhikode,Citizen: The government hospital in Kozhikode has long waiting times. Executive: We will escalate this issue.,Healthcare,Positive,Medium
+992,Alappuzha,Citizen: Frequent power cuts are happening in Alappuzha. Executive: Complaint noted.,Electricity,Neutral,Medium
+993,Kannur,Citizen: Garbage has not been collected in our area in Kannur. Executive: Complaint registered.,Waste Management,Neutral,High
+994,Thrissur,Citizen: The road near the junction in Thrissur is damaged and causing accidents. Executive: We will forward this to the concerned department.,Roads,Negative,Low
+995,Ernakulam,Citizen: There are not enough teachers in the government school in Ernakulam. Executive: The issue will be forwarded.,Education,Positive,Low
+996,Idukki,Citizen: Garbage has not been collected in our area in Idukki. Executive: Complaint registered.,Waste Management,Neutral,Critical
+997,Kottayam,Citizen: Bus timings are irregular in Kottayam. Executive: We will inform the transport department.,Transport,Positive,Medium
+998,Palakkad,Citizen: Garbage has not been collected in our area in Palakkad. Executive: Complaint registered.,Waste Management,Neutral,Low
+999,Kannur,Citizen: Bus timings are irregular in Kannur. Executive: We will inform the transport department.,Transport,Neutral,Low
+1000,Ernakulam,Citizen: My income certificate application is delayed in Ernakulam. Executive: We will check the status.,Documentation,Negative,High
